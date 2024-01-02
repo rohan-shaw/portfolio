@@ -26,7 +26,7 @@ if (!isDeviceAllowed) {
     <div className="flex flex-col items-center justify-center h-screen text-center mobile-only-message">
       <img
         className="w-20 h-20 rounded-full mb-4"
-        src="src\assets\dp-5.jpg"
+        src="\assets\dp-5.jpg"
         alt="Profile"
       />
       <p className="text-lg font-bold mb-2">Rohan Shaw</p>
@@ -59,7 +59,7 @@ if (!isDeviceAllowed) {
         {/* Add more social icons as needed */}
       </div>
       <a
-        href="src\assets\Resume-01-2024.pdf"
+        href="\assets\Resume-01-2024.pdf"
         download="rohan-shaw-resume.pdf"
         className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded inline-block"
       >
